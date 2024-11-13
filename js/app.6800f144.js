@@ -5,9 +5,9 @@
                 var i = e(5130),
                     o = e(6768),
                     l = e(4232),
-                    u = e.p + "./img/room0.e2d4696b.jpg",
-                    r = e.p + "./img/room1.0d438c5a.jpg",
-                    c = e.p + "./img/room2.d330e978.jpg";
+                    u = e.p + "vue/img/room0.e2d4696b.jpg",
+                    r = e.p + "vue/img/room1.0d438c5a.jpg",
+                    c = e.p + "vue/img/room2.d330e978.jpg";
                 const p = { key: 0, class: "black-bg" },
                     a = { class: "white-bg" },
                     s = { class: "tab" },
