@@ -2,19 +2,60 @@
 <html lang="">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="icon" href="./favicon.ico">
-    <title>vuedongsan</title>
-    <script defer="defer" src="./js/chunk-vendors.8a940c09.js"></script>
-    <script defer="defer" src="./js/app.6800f144.js"></script>
-    <link href="./css/app.9ecddcde.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" as="style" crossorigin
+    href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+  <title>vuedongsan</title>
+  <script defer="defer" src="./js/chunk-vendors.ab05da02.js"></script>
+  <script defer="defer" src="./js/app.b076b31a.js"></script>
+  <link href="./css/app.e4d95a01.css" rel="stylesheet">
 </head>
 
 <body><noscript><strong>We're sorry but vuedongsan doesn't work properly without JavaScript enabled. Please enable it to
-            continue.</strong></noscript>
-    <div id="app"></div>
+      continue.</strong></noscript>
+  <div id="app"></div>
+  <script>
+    let curPos = 0;
+    let postion = 0;
+    let start_x, end_x;
+    const IMAGE_WIDTH = 375;
+    const images = document.querySelector(".slide_box")
+
+    images.addEventListener('touchstart', touch_start);
+    images.addEventListener('touchend', touch_end);
+
+    function prev() {
+      if (curPos > 0) {
+        postion += IMAGE_WIDTH;
+        images.style.transform = `translateX(${postion}px)`;
+        curPos = curPos - 1;
+      }
+    }
+
+    function next() {
+      if (curPos < 3) {
+        postion -= IMAGE_WIDTH;
+        images.style.transform = `translateX(${postion}px)`;
+        curPos = curPos + 1;
+      }
+    }
+
+    function touch_start(event) {
+      start_x = event.touches[0].pageX
+    }
+
+    function touch_end(event) {
+      end_x = event.changedTouches[0].pageX;
+      if (start_x > end_x) {
+        next();
+      } else {
+        prev();
+      }
+    }
+  </script>
 </body>
 
 </html>
