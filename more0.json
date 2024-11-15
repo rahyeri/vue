@@ -4,7 +4,9 @@
     "image": "https://cdn.pixabay.com/photo/2021/09/20/06/55/spaghetti-6639970_1280.jpg",
     "content": "18년 신축공사한 남향 원룸 ☀️, 공기청정기 제공",
     "price": 7900,
-    "lowcost":50
+    "lowcost" : 50,
+    "best" : true,
+    "good" : 150
     },
     {
     "id" : 1,
@@ -12,7 +14,9 @@
     "image": "https://cdn.pixabay.com/photo/2021/10/30/12/50/woman-6754248_640.jpg",
     "content": "침실만 따로 있는 공용 셰어하우스입니다. 최대 2인 가능",
     "price": 18900,
-    "lowcost":64
+    "lowcost" : 64,
+    "best" : true,
+    "good" : 164
     },
     {
     "id" : 2,
@@ -20,7 +24,9 @@
     "image": "https://cdn.pixabay.com/photo/2016/02/05/15/34/pasta-1181189_640.jpg",
     "content": "금산오거리 역세권 아파트입니다. 애완동물 불가능 ?",
     "price": 6500,
-    "lowcost" : 81
+    "lowcost" : 81,
+    "best" : true,
+    "good" : 181
     },
     {
     "id" : 3,
@@ -28,7 +34,9 @@
     "image": "https://cdn.pixabay.com/photo/2017/08/17/19/40/ukrainian-dill-potatoes-2652561_640.jpg",
     "content": "무암동인근 2인용 원룸입니다. 전세 전환가능",
     "price": 9900,
-    "lowcost" : 63
+    "lowcost" : 63,
+    "best" : true,
+    "good" : 163
     },
     {
     "id" : 4,
@@ -36,7 +44,9 @@
     "image": "https://cdn.pixabay.com/photo/2021/01/16/09/05/meal-5921491_640.jpg",
     "content": "탄천동 아파트 월세, 남향, 역 5분거리, 허위매물아님",
     "price": 11400,
-    "lowcost" : 34
+    "lowcost" : 34,
+    "best" : true,
+    "good" : 134
     },
     {
     "id" : 5,
@@ -44,7 +54,9 @@
     "image": "https://cdn.pixabay.com/photo/2016/06/06/18/29/meat-skewer-1440105_640.jpg",
     "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
     "price": 29900,
-    "lowcost" : 40
+    "lowcost" : 40,
+    "best" : true,
+    "good" : 140
   },
     {
     "id" : 6,
@@ -52,7 +64,9 @@
     "image": "https://cdn.pixabay.com/photo/2017/06/30/20/55/mushrooms-2459679_640.jpg",
     "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
     "price": 8900,
-    "lowcost" : 39
+    "lowcost" : 39,
+    "best" : true,
+    "good" : 139
   },
     {
     "id" : 7,
@@ -60,7 +74,9 @@
     "image": "https://cdn.pixabay.com/photo/2015/10/02/15/59/olive-oil-968657_640.jpg",
     "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
     "price": 18900,
-    "lowcost" : 5
+    "lowcost" : 5,
+    "best" : true,
+    "good" : 15
   },
     {
     "id" : 8,
@@ -68,7 +84,9 @@
     "image": "https://cdn.pixabay.com/photo/2016/11/19/12/44/burgers-1839090_640.jpg",
     "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
     "price": 22500,
-    "lowcost" : 18
+    "lowcost" : 18,
+    "best" : true,
+    "good" : 118
   },
     {
     "id" : 9,
@@ -76,7 +94,9 @@
     "image": "https://cdn.pixabay.com/photo/2017/06/28/17/40/chicken-2451482_640.jpg",
     "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
     "price": 12360,
-    "lowcost" : 85
+    "lowcost" : 85,
+    "best" : true,
+    "good" : 185
   },
     {
     "id" : 10,
@@ -84,6 +104,8 @@
     "image": "https://cdn.pixabay.com/photo/2017/02/15/10/57/pizza-2068272_640.jpg",
     "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
     "price": 9900,
-    "lowcost" : 50
+    "lowcost" : 50,
+    "best" : true,
+    "good" : 150
   }
 ]
