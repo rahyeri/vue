@@ -1,0 +1,89 @@
+[{
+    "id" : 0,
+    "title": "지중해 토마토로 만든 프레쉬 파스타 100g*3입",
+    "image": "https://cdn.pixabay.com/photo/2021/09/20/06/55/spaghetti-6639970_1280.jpg",
+    "content": "18년 신축공사한 남향 원룸 ☀️, 공기청정기 제공",
+    "price": 7900,
+    "lowcost":50
+    },
+    {
+    "id" : 1,
+    "title": "신선한 토마토를 곁들인 아스파라거스 샐러드",
+    "image": "https://cdn.pixabay.com/photo/2021/10/30/12/50/woman-6754248_640.jpg",
+    "content": "침실만 따로 있는 공용 셰어하우스입니다. 최대 2인 가능",
+    "price": 18900,
+    "lowcost":64
+    },
+    {
+    "id" : 2,
+    "title": "자연에서 뛰노는 지중해식 무항생제 계란",
+    "image": "https://cdn.pixabay.com/photo/2016/02/05/15/34/pasta-1181189_640.jpg",
+    "content": "금산오거리 역세권 아파트입니다. 애완동물 불가능 ?",
+    "price": 6500,
+    "lowcost" : 81
+    },
+    {
+    "id" : 3,
+    "title": "니 감자는 묵어봤나 강원도는 감자가 짱이다",
+    "image": "https://cdn.pixabay.com/photo/2017/08/17/19/40/ukrainian-dill-potatoes-2652561_640.jpg",
+    "content": "무암동인근 2인용 원룸입니다. 전세 전환가능",
+    "price": 9900,
+    "lowcost" : 63
+    },
+    {
+    "id" : 4,
+    "title": "혈당방어 채식 자연주의 한 접시 밀키트 900g",
+    "image": "https://cdn.pixabay.com/photo/2021/01/16/09/05/meal-5921491_640.jpg",
+    "content": "탄천동 아파트 월세, 남향, 역 5분거리, 허위매물아님",
+    "price": 11400,
+    "lowcost" : 34
+    },
+    {
+    "id" : 5,
+    "title": "닭고기를 브라질식 양념한 파티 꼬치 6봉",
+    "image": "https://cdn.pixabay.com/photo/2016/06/06/18/29/meat-skewer-1440105_640.jpg",
+    "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
+    "price": 29900,
+    "lowcost" : 40
+  },
+    {
+    "id" : 6,
+    "title": "양송이 듬뿍 인도식 카레 3+1 증정",
+    "image": "https://cdn.pixabay.com/photo/2017/06/30/20/55/mushrooms-2459679_640.jpg",
+    "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
+    "price": 8900,
+    "lowcost" : 39
+  },
+    {
+    "id" : 7,
+    "title": "(이태리산)포모도르 지방 1A등급 올리브 오일",
+    "image": "https://cdn.pixabay.com/photo/2015/10/02/15/59/olive-oil-968657_640.jpg",
+    "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
+    "price": 18900,
+    "lowcost" : 5
+  },
+    {
+    "id" : 8,
+    "title": "BBQ 장인이 만든 불맛 떡갈비 2봉+2봉 행사",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/12/44/burgers-1839090_640.jpg",
+    "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
+    "price": 22500,
+    "lowcost" : 18
+  },
+    {
+    "id" : 9,
+    "title": "자메이카식으로 양념한 닭봉 100개입",
+    "image": "https://cdn.pixabay.com/photo/2017/06/28/17/40/chicken-2451482_640.jpg",
+    "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
+    "price": 12360,
+    "lowcost" : 85
+  },
+    {
+    "id" : 10,
+    "title": "입소문난 sns대란템 우주인 피자 / 페페로니 맛",
+    "image": "https://cdn.pixabay.com/photo/2017/02/15/10/57/pizza-2068272_640.jpg",
+    "content": "반지하 원룸입니다. 비올 때 물가끔 새는거 빼면 좋아요",
+    "price": 9900,
+    "lowcost" : 50
+  }
+]
